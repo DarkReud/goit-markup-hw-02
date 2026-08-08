@@ -1,22 +1,23 @@
-.portfolio h2 {
-  color: #2e2f42;
+.portfolio-title {
+  font-size: 36px;
   line-height: 1.11;
   font-weight: 700;
-  font-size: 36px;
   letter-spacing: 0.02em;
   text-align: center;
-}
-.portfolio h3 {
   color: #2e2f42;
+}
+
+.portfolio-subtitle {
+  font-size: 20px;
   line-height: 1.2;
   font-weight: 500;
-  font-size: 20px;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
-.portfolio p {
-  color: #434455;
-  line-height: 1.5;
-  font-weight: 400;
+
+.portfolio-text {
   font-size: 16px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
